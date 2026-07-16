@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AryanCodes352/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/AryanCodes352/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/AryanCodes352/DSA-Journey/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/AryanCodes352/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
