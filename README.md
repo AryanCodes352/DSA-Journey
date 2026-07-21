@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/AryanCodes352/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AryanCodes352/DSA-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AryanCodes352/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/AryanCodes352/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -57,10 +60,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
