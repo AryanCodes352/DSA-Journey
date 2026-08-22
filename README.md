@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0724-find-pivot-index](https://github.com/AryanCodes352/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AryanCodes352/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
