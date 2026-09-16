@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/AryanCodes352/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/AryanCodes352/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -147,4 +150,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanCodes352/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AryanCodes352/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
