@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/AryanCodes352/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AryanCodes352/DSA-Journey/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AryanCodes352/DSA-Journey/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AryanCodes352/DSA-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
