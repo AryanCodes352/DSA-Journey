@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0682-baseball-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AryanCodes352/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AryanCodes352/DSA-Journey/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AryanCodes352/DSA-Journey/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
