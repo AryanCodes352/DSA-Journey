@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AryanCodes352/DSA-Journey/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanCodes352/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanCodes352/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AryanCodes352/DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AryanCodes352/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AryanCodes352/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanCodes352/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanCodes352/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AryanCodes352/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanCodes352/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AryanCodes352/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
