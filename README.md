@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/AryanCodes352/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AryanCodes352/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/AryanCodes352/DSA-Journey/tree/master/0686-repeated-string-match) |
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AryanCodes352/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanCodes352/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AryanCodes352/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/AryanCodes352/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AryanCodes352/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AryanCodes352/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AryanCodes352/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AryanCodes352/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/0682-baseball-game) |
