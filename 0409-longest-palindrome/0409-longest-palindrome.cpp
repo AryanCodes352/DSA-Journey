@@ -1,31 +1,33 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        vector<int>low(26,0),up(26,0);
-        for(int i=0;i<s.size();i++){
-            if(s[i]>='a'){
-                low[s[i]-'a']++;
+        int n = s.size();
+        unordered_map<char,int>f;
+        for(int i=0;i<n;i++){
+            f[s[i]]++;
+        }
+        bool odd = false;
+        int res = 0;
+        for(auto i:f){
+            int val = i.second;
+            if(val%2==0){
+                res+=val;
             }else{
-                up[s[i]-'A']++;
+                odd = true;
             }
         }
-        int count = 0;
-        bool odd = 0;
-        for(int i=0;i<26;i++){
-            if(low[i]%2==0){
-                count+=low[i];
-            }else{
-                count+=low[i]-1;
-                odd = 1;
+
+        if(odd==false){
+            return res;
+        }else{
+            for(auto i:f){
+                int val = i.second;
+                if(val%2==1){
+                    res+=val-1;
+                }
             }
-            if(up[i]%2==0){
-                count+=up[i];
-            }else{
-                count+=up[i]-1;
-                odd = 1;
-            }
-            
         }
-        return count + odd;
+
+        return res+1;
     }
 };
