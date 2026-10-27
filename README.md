@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AryanCodes352/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanCodes352/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryanCodes352/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -224,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
