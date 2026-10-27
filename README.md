@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AryanCodes352/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanCodes352/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AryanCodes352/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AryanCodes352/DSA-Journey/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/AryanCodes352/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AryanCodes352/DSA-Journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AryanCodes352/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AryanCodes352/DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AryanCodes352/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AryanCodes352/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AryanCodes352/DSA-Journey/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/AryanCodes352/DSA-Journey/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanCodes352/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bracket Sequences
 |  |
