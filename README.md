@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AryanCodes352/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/AryanCodes352/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/AryanCodes352/DSA-Journey/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanCodes352/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/AryanCodes352/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AryanCodes352/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AryanCodes352/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanCodes352/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanCodes352/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanCodes352/DSA-Journey/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AryanCodes352/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanCodes352/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanCodes352/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
